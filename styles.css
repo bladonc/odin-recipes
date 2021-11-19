@@ -5,6 +5,11 @@ button {
     background-color:hsla(240, 50%, 50%, 0.26);
     font-size: 32px;
     font-weight: bold;
+    padding: 5px;
+    border: 2px inset rgba(4, 69, 112, 0.692);
+    border-radius: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
     
     }
 img {

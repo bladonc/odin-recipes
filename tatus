@@ -1,0 +1,29 @@
+[33mcommit fc78230f46f379461e01eecfd938e04fb71014f6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Chris Bladon <bladon.chris@gmail.com>
+Date:   Fri Nov 19 14:53:20 2021 -0400
+
+    Adding some CSS
+
+[33mcommit 5be85778dca2c624be6a71d35a85af233320b772[m
+Author: Chris Bladon <bladon.chris@gmail.com>
+Date:   Thu Nov 11 22:57:04 2021 -0400
+
+    spelling fix main page
+
+[33mcommit de3d60afba4172e6766d56efc01a7b7a7b047b43[m
+Author: Chris Bladon <bladon.chris@gmail.com>
+Date:   Thu Nov 11 22:54:29 2021 -0400
+
+    adding images
+
+[33mcommit c95ef7c18155fad8c570c2e4e0fb6d306599c68b[m
+Author: Chris Bladon <bladon.chris@gmail.com>
+Date:   Thu Nov 11 22:48:24 2021 -0400
+
+    Adding index.html and recipes hamburgers.html, lasagna.html, and meatloaf.html
+
+[33mcommit 9f20bb7a38e4e129f134f6159b4b52db8744b1d3[m
+Author: bladonc <65668243+bladonc@users.noreply.github.com>
+Date:   Thu Nov 11 14:13:16 2021 -0400
+
+    Initial commit
